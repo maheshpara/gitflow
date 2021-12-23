@@ -1,2 +1,3 @@
 initial
 feature 1
+release 1
